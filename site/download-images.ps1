@@ -8,18 +8,18 @@ $ErrorActionPreference = "Stop"
 $images = [ordered]@{
   # Главный баннер — фруктовый мармелад (pate de fruit)
   "hero.jpg" = "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Pate_de_fruit.jpg/1280px-Pate_de_fruit.jpg"
-  # Ягодный микс — малина
-  "product-berry-mix.jpg" = "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Raspberry.jpg/960px-Raspberry.jpg"
-  # Цитрусовый бум — дольки апельсина
-  "product-citrus.jpg" = "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Orange-Fruit-Pieces.jpg/960px-Orange-Fruit-Pieces.jpg"
-  # Вишнёвый сад — черешня
-  "product-cherry.jpg" = "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Cherry_fruits.jpg/960px-Cherry_fruits.jpg"
-  # Манго-маракуйя — манго в разрезе
-  "product-mango.jpg" = "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Mango_and_cross_section.jpg/960px-Mango_and_cross_section.jpg"
-  # Яблочный сад — зелёное яблоко
-  "product-apple.jpg" = "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Green_Apple.jpg/960px-Green_Apple.jpg"
-  # Клубничное облако — спелая клубника
-  "product-strawberry.jpg" = "https://upload.wikimedia.org/wikipedia/commons/2/29/PerfectStrawberry.jpg"
+  # Ягодный микс — мармелад «малина-ежевика»
+  "product-berry-mix.jpg" = "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Haribo_Gelee-Himbeeren_und_-Brombeeren-5467.jpg/960px-Haribo_Gelee-Himbeeren_und_-Brombeeren-5467.jpg"
+  # Цитрусовый бум — мармеладные цитрусовые дольки
+  "product-citrus.jpg" = "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Russian_Marmalade_-_Lemon_Slices.jpg/960px-Russian_Marmalade_-_Lemon_Slices.jpg"
+  # Вишнёвый сад — красный ягодный мармелад
+  "product-cherry.jpg" = "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Pihlaja_candy.jpg/960px-Pihlaja_candy.jpg"
+  # Манго-маракуйя — манговый мармелад
+  "product-mango.jpg" = "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Fudge_mango_jelly_from_Vietnam.jpg/960px-Fudge_mango_jelly_from_Vietnam.jpg"
+  # Яблочный сад — яблочный мармелад
+  "product-apple.jpg" = "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Apple_marmalade_01.JPG/960px-Apple_marmalade_01.JPG"
+  # Клубничное облако — клубничный мармелад
+  "product-strawberry.jpg" = "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Haribo_giant_strawbs_uk_candy.jpg/960px-Haribo_giant_strawbs_uk_candy.jpg"
 }
 
 $outDir = Join-Path $PSScriptRoot "assets\images"
