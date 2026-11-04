@@ -13,7 +13,7 @@
       "tag": "ХИТ",
       "price": 490,
       "description": "Малина, клубника и чёрная смородина — мягкий кисло-сладкий баланс.",
-      "image": "https://images.unsplash.com/photo-1575377427642-087cf684f29d?auto=format&fit=crop&w=900&q=85"
+      "image": "assets/images/product-berry-mix.jpg"
     },
     {
       "id": "citrusovy-bum",
@@ -21,7 +21,7 @@
       "tag": "НОВИНКА",
       "price": 450,
       "description": "Апельсин, лимон и грейпфрут. Ярко, свежо и с приятной горчинкой.",
-      "image": "https://images.unsplash.com/photo-1558642452-9d2a7deb7f62?auto=format&fit=crop&w=900&q=85"
+      "image": "assets/images/product-citrus.jpg"
     },
     {
       "id": "vishnyovy-sad",
@@ -29,7 +29,7 @@
       "tag": "ХИТ",
       "price": 470,
       "description": "Глубокий вишнёвый вкус с лёгкой кислинкой и бархатным послевкусием.",
-      "image": "https://images.unsplash.com/photo-1599785209707-a456fc1337bb?auto=format&fit=crop&w=900&q=85"
+      "image": "assets/images/product-cherry.jpg"
     },
     {
       "id": "mango-marakuya",
@@ -37,7 +37,7 @@
       "tag": "ЭКЗОТИКА",
       "price": 520,
       "description": "Солнечный тропический дуэт с ароматом спелого манго и маракуйи.",
-      "image": "https://images.unsplash.com/photo-1578985545062-69928b1d9587?auto=format&fit=crop&w=900&q=85"
+      "image": "assets/images/product-mango.jpg"
     },
     {
       "id": "yablochny-sad",
@@ -45,7 +45,7 @@
       "tag": "НЕЖНЫЙ",
       "price": 430,
       "description": "Зелёное яблоко и ваниль — нежный, домашний и очень уютный вкус.",
-      "image": "https://images.unsplash.com/photo-1582058091505-f87a2e55a40f?auto=format&fit=crop&w=900&q=85"
+      "image": "assets/images/product-apple.jpg"
     },
     {
       "id": "klubnichnoe-oblako",
@@ -53,7 +53,7 @@
       "tag": "ПОДАРОК",
       "price": 490,
       "description": "Нежная клубника с лёгкой кислинкой — тот самый вкус первого лета.",
-      "image": "https://images.unsplash.com/photo-1499636136210-6f4ee915583e?auto=format&fit=crop&w=900&q=85"
+      "image": "assets/images/product-strawberry.jpg"
     }
   ]
 }
